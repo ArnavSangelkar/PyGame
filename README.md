@@ -1,6 +1,7 @@
 # PyGame
-A bouncing ball game that keeps your high score and resets it you miss the paddle 
-You can control the paddle with your mouse as the Y direction and there will be no changes in the X direction 
+A bouncing ball game that keeps your high score and resets the game back to 0 if you miss the paddle 
+You will control the paddle with your mouse 
+
 
 In order to run the game please download the file to your computer 
 Then in your terminal run this "python test_pygame.py"
